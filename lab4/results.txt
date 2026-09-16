@@ -1,0 +1,3 @@
+Sum: 272
+Smallest: 2
+Largest: 89
