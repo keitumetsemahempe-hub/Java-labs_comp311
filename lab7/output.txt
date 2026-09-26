@@ -1,0 +1,6 @@
+My name is John.
+I am learning Java.
+Java can work with files.
+Writing to files is useful.
+This is an extra line.
+This is another extra line.
